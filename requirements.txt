@@ -1,0 +1,6 @@
+openai==1.2.3
+deepgram-sdk==2.0.0
+google-cloud-texttospeech==2.11.0
+python-dotenv==1.0.0
+pyaudio==0.2.13 #마이크 입력 처리
+simpleaudio==1.0.4 #오디오 출력 처리
